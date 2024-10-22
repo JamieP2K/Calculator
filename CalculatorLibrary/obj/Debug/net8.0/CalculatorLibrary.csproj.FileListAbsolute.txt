@@ -1,0 +1,12 @@
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+c:\Users\Jamie\Documents\Programming\Projects\FreeCodeCamp\CSharpProjects\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.AssemblyReference.cache
